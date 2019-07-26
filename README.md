@@ -1,6 +1,4 @@
 # PROYECTO1
-tutorial de Git
+tutorial de Git 
+--------
 
-#PROYECTO1
-
-#PROYECTO1
